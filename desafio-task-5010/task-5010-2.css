@@ -1,0 +1,25 @@
+.container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 40px;
+}
+
+.caixa-1 {
+  width: 150px;
+  height: 100px;
+  background-color: blueviolet;
+  padding: 50px 50px; /*teste*/
+}
+
+.caixa-2 {
+  width: 150px;
+  height: 100px;
+  background-color: aquamarine;
+}
+
+.caixa-3 {
+  width: 150px;
+  height: 100px;
+  background-color: chartreuse;
+}
